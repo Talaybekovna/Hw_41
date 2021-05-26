@@ -14,8 +14,4 @@ class FragmentA : Fragment(R.layout.fragment_a) {
         super.onViewCreated(view, savedInstanceState)
 
     }
-
-    companion object {
-
-    }
 }
